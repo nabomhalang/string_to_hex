@@ -17,6 +17,6 @@ substitution the string with hexadecimal.
  > python string_to_hex.py --reverse 8 0x0000000067616c66 -> reversed : flag
 
 ======================= OPTION =======================
---help : show this programe option and explain
+ > --help : show this programe option and explain
 
---reverse : Converts hexadecimal to string.
+ > --reverse : Converts hexadecimal to string.
